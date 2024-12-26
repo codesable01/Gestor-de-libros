@@ -1,0 +1,13 @@
+com/
+└── example/
+    └── demo/
+        └── gutendex/
+            ├── dto/                # DTOs para transferir datos
+            ├── model/              # Entidades principales del modelo
+            ├── repository/         # Interfaces de acceso a la base de datos
+            ├── service/            # Lógica de negocio y servicios externos
+            ├── controller/         # Controladores REST (MVC)
+            ├── config/             # Configuraciones generales (opcional)
+            ├── util/               # Clases auxiliares como validadores o conversores
+            ├── exceptions/         # Manejo centralizado de excepciones (opcional)
+            └── principal/          # Clase principal

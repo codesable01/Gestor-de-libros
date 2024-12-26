@@ -1,0 +1,17 @@
+Responsabilidades del BookService:
+Búsqueda de libros:
+
+Interactuar con la API de Gutendex para buscar libros por título, autor, género, etc.
+Implementar paginación y filtros avanzados.
+Gestión de libros favoritos:
+
+Permitir a los usuarios agregar y eliminar libros de una lista de favoritos.
+Consulta de detalles de un libro:
+
+Obtener información detallada de un libro específico.
+Interacción con otras entidades:
+
+Relacionar libros con usuarios, historial de búsqueda o categorías.
+Preparación para el BrowseService:
+
+Exponer funciones que devuelvan libros con formatos específicos para la descarga o lectura, preparando los datos para BrowseService.
